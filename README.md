@@ -1,2 +1,2 @@
 # OpenCV_Learning
-code of OpenCV
+OpenCV的学习笔记和代码~
